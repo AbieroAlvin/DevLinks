@@ -39,8 +39,9 @@ Users should be able to:
 - **User Authentication:** Add an extra layer of security by enabling account creation and login functionality.
 
 ### Links
+https://github.com/AbieroAlvin/DevLinks
 
-- Solution URL: [https://github.com/Olatoyan/link-sharing-app](https://github.com/Olatoyan/link-sharing-app)
+- Solution URL: [https://github.com/AbieroAlvin/DevLinks](https://github.com/AbieroAlvin/DevLinks)
 - Live Site URL: [https://toyan-devlinks.vercel.app/](https://toyan-devlinks.vercel.app/)
 
 ## My process
@@ -56,7 +57,4 @@ Users should be able to:
 - [React Query](https://react-query.tanstack.com/) - For efficient data fetching
 - [React Hot Toast](https://react-hot-toast.com/) - For user-friendly notifications
 
-## Author
 
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
